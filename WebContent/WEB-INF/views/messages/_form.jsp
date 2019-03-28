@@ -9,7 +9,6 @@
 
     </div>
 </c:if>
-<label for="title">ID</label>
 <label for="title">ID</label><br />
 <input type="text" name="title" value="${message.title}" />
 <br /><br />
